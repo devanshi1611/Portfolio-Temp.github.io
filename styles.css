@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    color: #15133C;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Caveat', cursive;
+    color: #1C658C;
+}
+
+h3 {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 40px;
+    color: #1D5C63;
+}
+
+p {
+    color: #313552;
+}
+
+.top {
+    background-color: #E5EFC1;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.middle {
+    background-color: #A2D5AB;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.bottom {
+    background-color: #39AEA9;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.c {
+    text-decoration: underline;
+}
+
+.hr {
+    border: dotted 4px;
+    border-bottom: none;
+    color: #313552;
+    width: 10%;
+}
+
+.profile {
+    padding-bottom: 20px;
+}
+.skills {
+    padding-bottom: 20px;
+}
+
+.skill-row1 {
+    margin: auto;
+    width: 50%;
+    line-height: 1cm;
+    text-align: left;
+}
+.skill-row2 {
+    margin: auto;
+    width: 50%;
+    line-height: 1cm;
+    text-align: left;
+}
+
+.img1 {
+    float: left;
+    margin-top: 80px;
+    margin-right: 40px;
+}
+.img2 {
+    margin-top: 40px;
+    float: right;
+    margin-left: 40px;
+}
+
+.topc {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.bottomc {
+    position: absolute;
+    left: 200px;
+    bottom: 250px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Edu TAS Beginner', cursive;
+    color: #1C658C;
+    font-size: 24px;
+    background: #E5EFC1;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+a{
+    font-family: 'Edu TAS Beginner', cursive;
+    margin-left: 30px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+.copy{
+    padding: 5px 0;
+    font-size: 0.5cm;
+    color: black;
+}
