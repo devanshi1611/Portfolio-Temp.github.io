@@ -88,14 +88,12 @@ p {
 }
 
 .topc {
-    position: absolute;
-    right: 200px;
-    top: 50px;
+    margin-left: 500px;
+    padding-top: 0px;
 }
 .bottomc {
-    position: absolute;
-    left: 200px;
-    bottom: 250px;
+    margin-right: 500px;
+    padding-bottom: 0px;
 }
 
 .btn {
